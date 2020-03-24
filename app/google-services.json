@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "1040987739433",
+    "firebase_url": "https://cabbieproduction.firebaseio.com",
+    "project_id": "cabbieproduction",
+    "storage_bucket": "cabbieproduction.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040987739433:android:7fc2ef7d97bba8d1721338",
+        "android_client_info": {
+          "package_name": "com.cabbietransport.pilot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040987739433-57515iu96ciaa50o3nga62lvua8rcq94.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cabbietransport.pilot",
+            "certificate_hash": "73d059badfaf34a3b84cb7d46127a4a3fba8dcf9"
+          }
+        },
+        {
+          "client_id": "1040987739433-655var9p02e456t6064l42bcrf09v3on.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpvoHEiP_B6L-VB4fKLyxNoTz33OzCqdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040987739433-655var9p02e456t6064l42bcrf09v3on.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040987739433:android:511656c39d87550f721338",
+        "android_client_info": {
+          "package_name": "com.cabbietransport.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040987739433-faakoosl4i8st0m5gul1trm8e8pmb6ef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cabbietransport.user",
+            "certificate_hash": "73d059badfaf34a3b84cb7d46127a4a3fba8dcf9"
+          }
+        },
+        {
+          "client_id": "1040987739433-655var9p02e456t6064l42bcrf09v3on.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpvoHEiP_B6L-VB4fKLyxNoTz33OzCqdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040987739433-655var9p02e456t6064l42bcrf09v3on.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
